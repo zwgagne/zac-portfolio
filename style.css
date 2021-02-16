@@ -4,6 +4,10 @@
     background-color: #1B1B1B !important;
 }
 
+.yellow{
+    color: #FFB90B !important;
+}
+
 .roboto{
     font-family: 'Roboto', sans-serif !important;
 }
@@ -24,7 +28,7 @@
 }
 
 .mt-accueil{
-    padding-top: 5rem;
+    padding-top: 3rem;
 }
 .mt-neg{
     margin-top: -0.5rem  !important;
@@ -35,7 +39,7 @@
 }
 
 .logos{
-    max-width: 22% !important;
+    max-width: 20% !important;
     padding-top: 2rem !important;
     padding-bottom: 100% !important;
     
@@ -45,5 +49,11 @@
     min-height: 100%;
 }
 
+.padding-top{
+    padding-top: 15rem;
+}
 
-
+a{
+    text-decoration: none !important;
+    
+}
