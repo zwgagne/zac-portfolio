@@ -38,11 +38,12 @@
     max-width: 70% !important;
 }
 
-.logos{
+.logo{
     max-width: 20% !important;
     padding-top: 2rem !important;
     padding-bottom: 100% !important;
-    
+    padding-left: 4%;
+   
 }
 
 .main-menu{
@@ -55,5 +56,5 @@
 
 a{
     text-decoration: none !important;
-    
+  
 }
