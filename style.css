@@ -59,4 +59,12 @@ a{
   
 }
 
+a:hover{
+    color: #198754 !important;
+   
+}
+
+a:link, :visited{
+    color: white !important; 
+}
 
