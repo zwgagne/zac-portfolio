@@ -59,11 +59,6 @@ a{
   
 }
 
-a:hover{
-    color: #198754 !important;
-   
-}
-
 a:link, :visited{
     color: white !important; 
 }
@@ -75,4 +70,12 @@ h5{
 h5:hover{
     color: #FFB90B; 
     font-size: 160%;
+}
+
+html{
+    scroll-behavior: smooth;
+}
+
+#layer_1{
+    rotate: 100;
 }
