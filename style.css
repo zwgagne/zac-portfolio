@@ -68,3 +68,11 @@ a:link, :visited{
     color: white !important; 
 }
 
+h5{
+    transition: all .1s linear;
+}
+
+h5:hover{
+    color: #FFB90B; 
+    font-size: 160%;
+}
